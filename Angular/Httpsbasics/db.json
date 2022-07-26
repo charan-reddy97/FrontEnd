@@ -1,0 +1,44 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "producttitle": "Mobile",
+      "price": 2000
+    },
+    {
+      "id": 2,
+      "producttitle": "bike",
+      "price": 20000
+    },
+    {
+      "id": 3,
+      "producttitle": "car",
+      "price": 2000000
+    },
+    {
+      "producttitle": "Nike",
+      "price": 1212,
+      "id": 3
+    },
+    {
+      "producttitle": "sdafsd",
+      "price": 67,
+      "id": 4
+    },
+    {
+      "producttitle": "dafdsf",
+      "price": 12234,
+      "id": 34
+    },
+    {
+      "producttitle": "sdfg",
+      "price": 123,
+      "id": 345
+    },
+    {
+      "producttitle": "watch",
+      "price": "022222",
+      "id": "17"
+    }
+  ]
+}

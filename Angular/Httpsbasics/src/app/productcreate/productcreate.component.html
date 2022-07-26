@@ -1,0 +1,16 @@
+<p>Create New Product</p>
+<mat-form-field appearance="fill">
+    <mat-label>Product Name</mat-label>
+    <input matInput [(ngModel)]="currentProduct.producttitle">
+  </mat-form-field>
+  <mat-form-field appearance="fill">
+    <mat-label>Price</mat-label>
+    <input matInput [(ngModel)]="currentProduct.price">
+  </mat-form-field>
+  <mat-form-field appearance="fill">
+    <mat-label>Product ID</mat-label>
+    <input matInput [(ngModel)]="currentProduct.id">
+  </mat-form-field>
+
+<button type="button" (click)="saveProduct()" 
+mat-raised-button color="primary">Save</button>

@@ -1,0 +1,16 @@
+C:\charanreddy\DOTNET CORE\MyFirstCoreApp\bin\Debug\net5.0\MyFirstCoreApp.exe
+C:\charanreddy\DOTNET CORE\MyFirstCoreApp\bin\Debug\net5.0\MyFirstCoreApp.deps.json
+C:\charanreddy\DOTNET CORE\MyFirstCoreApp\bin\Debug\net5.0\MyFirstCoreApp.runtimeconfig.json
+C:\charanreddy\DOTNET CORE\MyFirstCoreApp\bin\Debug\net5.0\MyFirstCoreApp.runtimeconfig.dev.json
+C:\charanreddy\DOTNET CORE\MyFirstCoreApp\bin\Debug\net5.0\MyFirstCoreApp.dll
+C:\charanreddy\DOTNET CORE\MyFirstCoreApp\bin\Debug\net5.0\ref\MyFirstCoreApp.dll
+C:\charanreddy\DOTNET CORE\MyFirstCoreApp\bin\Debug\net5.0\MyFirstCoreApp.pdb
+C:\charanreddy\DOTNET CORE\MyFirstCoreApp\obj\Debug\net5.0\MyFirstCoreApp.csproj.AssemblyReference.cache
+C:\charanreddy\DOTNET CORE\MyFirstCoreApp\obj\Debug\net5.0\MyFirstCoreApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\charanreddy\DOTNET CORE\MyFirstCoreApp\obj\Debug\net5.0\MyFirstCoreApp.AssemblyInfoInputs.cache
+C:\charanreddy\DOTNET CORE\MyFirstCoreApp\obj\Debug\net5.0\MyFirstCoreApp.AssemblyInfo.cs
+C:\charanreddy\DOTNET CORE\MyFirstCoreApp\obj\Debug\net5.0\MyFirstCoreApp.csproj.CoreCompileInputs.cache
+C:\charanreddy\DOTNET CORE\MyFirstCoreApp\obj\Debug\net5.0\MyFirstCoreApp.dll
+C:\charanreddy\DOTNET CORE\MyFirstCoreApp\obj\Debug\net5.0\ref\MyFirstCoreApp.dll
+C:\charanreddy\DOTNET CORE\MyFirstCoreApp\obj\Debug\net5.0\MyFirstCoreApp.pdb
+C:\charanreddy\DOTNET CORE\MyFirstCoreApp\obj\Debug\net5.0\MyFirstCoreApp.genruntimeconfig.cache
